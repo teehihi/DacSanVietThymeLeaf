@@ -2,7 +2,7 @@
 
 ## 📌 Giới thiệu
 
-Hệ thống quản lý đặc sản truyền thống Việt Nam được xây dựng bằng **Spring Boot + Thymeleaf + Spring Security + JPA Hibernate**.
+Hệ thống quản lý đặc sản truyền thống Việt Nam được xây dựng bằng **Spring Boot + Thymeleaf + JPA Hibernate**.
 
 Dự án cung cấp các chức năng:
 - ✅ Quản lý người dùng (User Management)
