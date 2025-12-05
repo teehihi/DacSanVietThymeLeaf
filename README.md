@@ -274,7 +274,7 @@ Kiểm tra:
 
 ## 📄 License
 
-Dự án này được phát triển cho mục đích học tập tại **Trường Đại học Công Nghệ Thông Tin - ĐHQG TP.HCM**.
+Dự án này được phát triển cho mục đích học tập.
 
 ---
 
